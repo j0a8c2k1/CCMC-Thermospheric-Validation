@@ -1,1 +1,1 @@
-# CCCM-Thermospheric-Validation
+# CCMC-Thermospheric-Validation
